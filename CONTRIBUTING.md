@@ -4,7 +4,7 @@ Thanks for your interest in PromptDC. This project accepts focused, high-signal 
 
 ## Before You Start
 - Check open issues or open a new issue to discuss the change.
-- Keep contributions aligned with PromptDC’s core positioning: a **coding-first prompt rewriter**.
+- Keep contributions aligned with PromptDC’s core positioning: a **two-mode AI prompt & writing assistant** (Writing mode + Coding mode) that works in every text box.
 
 ## What We Accept
 - Bug fixes
@@ -13,7 +13,7 @@ Thanks for your interest in PromptDC. This project accepts focused, high-signal 
 
 ## What We Usually Don’t Accept
 - Large refactors without prior discussion
-- Changes that dilute the “coding-first prompt rewriter” positioning
+- Changes that dilute the “AI prompt & writing assistant” positioning
 
 ## How to Contribute
 1. Fork the repo
