@@ -4,7 +4,7 @@ Thanks for your interest in PromptDC. This project accepts focused, high-signal 
 
 ## Before You Start
 - Check open issues or open a new issue to discuss the change.
-- Keep contributions aligned with PromptDC’s core positioning: a **two-mode AI prompt & writing assistant** (Writing mode + Coding mode) that works in every text box.
+- Keep contributions aligned with PromptDC’s core positioning: a **two-mode AI prompt & writing assistant** (Writing mode + Coding mode) — Chrome works on any selected text anywhere; VS Code/Cursor are coding-first prompt enhancers.
 
 ## What We Accept
 - Bug fixes
